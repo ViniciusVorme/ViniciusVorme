@@ -1,11 +1,13 @@
-
-#  Vinicius_Vorme
+# Vinicius_Vorme
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Vinicius, sou natural de São Carlos, uma cidade do interior de Santa Catarina. Desde muito novo tive interesse na area da tecnologia, Oque me levou a querer seguir carreira na area.
-Atualmente, estou cursando Ciência da Computação pela UNOPAR, onde venho aprofundando meus conhecimentos em desenvolvimento, sistemas e computação em geral com foco em Back-End.
-Além da tecnologia, também sou fã de música — especialmente a boa e velha música gaúcha😅
+Me chamo Vinicius, sou natural de São Carlos, uma cidade do interior de Santa Catarina.  
+Desde muito novo desenvolvi interesse pela área de tecnologia, o que me motivou a seguir carreira nesse campo.
+
+Atualmente, estou cursando Ciência da Computação pela UNOPAR, onde venho aprofundando meus conhecimentos em desenvolvimento, sistemas e computação em geral, com foco em Back-End.
+
+Além da tecnologia, também sou fã de música — especialmente a boa e velha música gaúcha 😅
 
 <p align="left">
     <a href="https://github.com/ViniciusVorme?tab=repositories&sort=stargazers">
