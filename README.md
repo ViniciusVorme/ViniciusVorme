@@ -24,6 +24,13 @@ Além da tecnologia, também sou fã de música — especialmente a boa e velha 
             src="https://custom-icon-badges.demolab.com/github/followers/ViniciusVorme?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://www.linkedin.com/in/vinicius-fortes-vorme/">
+        <img 
+            alt="LinkedIn" 
+            title="Conecte-se comigo no LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
